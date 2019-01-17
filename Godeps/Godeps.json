@@ -56,7 +56,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/api/core/v1",
-			"Rev": "173ce66c1e39d1d0f56e0b3347ff2988068aecd0"
+			"Rev": "dd23d9f710e22c20a1f105889a45bc13ed56677c"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery/pkg/api/resource",
