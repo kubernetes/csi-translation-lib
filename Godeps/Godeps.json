@@ -56,7 +56,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/api/core/v1",
-			"Rev": "36e7d6cb75bb0c1c05ab5938c4f2caf706122c93"
+			"Rev": "75c737d69f92962004c8fdda4c6b2edf12b79327"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery/pkg/api/resource",
@@ -144,7 +144,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider/volume",
-			"Rev": "5ef488844833437f47163d602ba924175e4e8ab9"
+			"Rev": "584a0655c79d4fe1f3dc0e34ac0c15c826b076da"
 		},
 		{
 			"ImportPath": "k8s.io/klog",
