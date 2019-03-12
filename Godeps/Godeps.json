@@ -144,7 +144,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider/volume",
-			"Rev": "9996b359a2b2f2ff2b944cc3944a8842abd61b5c"
+			"Rev": "4ee83c7903ee568380d31b984d285fb386253a61"
 		},
 		{
 			"ImportPath": "k8s.io/klog",
