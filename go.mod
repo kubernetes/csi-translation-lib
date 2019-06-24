@@ -18,3 +18,5 @@ replace (
 	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20190612205821-1799e75a0719
 	k8s.io/cloud-provider => k8s.io/cloud-provider v0.0.0-20190612212711-5fc8952cc2ce
 )
+
+replace k8s.io/client-go => k8s.io/client-go v0.0.0-20190612210332-e4cdb82809fc
