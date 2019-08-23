@@ -288,11 +288,11 @@
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "21ddcbbef9e1"
+			"Rev": "8ca64af22337"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "c8dc69f8a8bf"
+			"Rev": "cdbd92c111cf"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
