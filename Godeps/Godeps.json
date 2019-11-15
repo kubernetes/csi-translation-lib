@@ -356,11 +356,11 @@
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "6f03b71b98e6"
+			"Rev": "0a8a1d7b7fae"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
-			"Rev": "111e63d03f55"
+			"Rev": "d1c34eac545e"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
@@ -376,7 +376,7 @@
 		},
 		{
 			"ImportPath": "k8s.io/utils",
-			"Rev": "2b95a09bc58d"
+			"Rev": "e782cd3c129f"
 		},
 		{
 			"ImportPath": "sigs.k8s.io/structured-merge-diff",
