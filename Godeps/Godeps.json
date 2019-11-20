@@ -256,7 +256,7 @@
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify",
-			"Rev": "v1.3.0"
+			"Rev": "v1.4.0"
 		},
 		{
 			"ImportPath": "go.opencensus.io",
@@ -348,19 +348,19 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "bbc9463b57e5"
+			"Rev": "11707872ac1c"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "a2a3e09234fa"
+			"Rev": "41065c7a8c2a"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "0a8a1d7b7fae"
+			"Rev": "571c0ef67034"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
-			"Rev": "d1c34eac545e"
+			"Rev": "6371aabbd7a7"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
