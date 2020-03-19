@@ -159,10 +159,6 @@
 			"Rev": "v0.1.0"
 		},
 		{
-			"ImportPath": "github.com/gophercloud/gophercloud",
-			"Rev": "v0.1.0"
-		},
-		{
 			"ImportPath": "github.com/gregjones/httpcache",
 			"Rev": "9cad4c3443a7"
 		},
@@ -356,11 +352,11 @@
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "2b32f6d21530"
+			"Rev": "6251a13f71aa"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
-			"Rev": "1fcd247031b5"
+			"Rev": "d32c06617bbf"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
