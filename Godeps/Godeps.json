@@ -120,7 +120,7 @@
 		},
 		{
 			"ImportPath": "github.com/golang/groupcache",
-			"Rev": "02826c3e7903"
+			"Rev": "5b532d6fd5ef"
 		},
 		{
 			"ImportPath": "github.com/golang/mock",
@@ -348,19 +348,19 @@
 		},
 		{
 			"ImportPath": "k8s.io/api",
-			"Rev": "8490c30bbf50"
+			"Rev": "6a16455650b6"
 		},
 		{
 			"ImportPath": "k8s.io/apimachinery",
-			"Rev": "ec2e4e97fca4"
+			"Rev": "97fb445e5c49"
 		},
 		{
 			"ImportPath": "k8s.io/client-go",
-			"Rev": "ede92e0fe62d"
+			"Rev": "806d15d65454"
 		},
 		{
 			"ImportPath": "k8s.io/cloud-provider",
-			"Rev": "1bd40cdc05f9"
+			"Rev": "9fde162fbfcc"
 		},
 		{
 			"ImportPath": "k8s.io/gengo",
