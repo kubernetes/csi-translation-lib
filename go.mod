@@ -2,12 +2,12 @@
 
 module k8s.io/csi-translation-lib
 
-go 1.18
+go 1.19
 
 require (
 	github.com/stretchr/testify v1.8.0
-	k8s.io/api v0.0.0-20221207015755-b764e873a089
-	k8s.io/apimachinery v0.0.0-20221207015101-093045325da7
+	k8s.io/api v0.0.0
+	k8s.io/apimachinery v0.0.0
 	k8s.io/klog/v2 v2.60.1
 )
 
@@ -32,6 +32,7 @@ require (
 )
 
 replace (
-	k8s.io/api => k8s.io/api v0.0.0-20221207015755-b764e873a089
-	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20221207015101-093045325da7
+	k8s.io/api => ../api
+	k8s.io/apimachinery => ../apimachinery
+	k8s.io/csi-translation-lib => ../csi-translation-lib
 )
