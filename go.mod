@@ -6,9 +6,9 @@ go 1.19
 
 require (
 	github.com/stretchr/testify v1.7.0
-	k8s.io/api v0.0.0-20220826103217-d10499434b52
-	k8s.io/apimachinery v0.0.0-20220826103007-349dcdf5c89f
-	k8s.io/klog/v2 v2.70.1
+	k8s.io/api v0.0.0
+	k8s.io/apimachinery v0.0.0
+	k8s.io/klog/v2 v2.80.0
 )
 
 require (
@@ -32,6 +32,7 @@ require (
 )
 
 replace (
-	k8s.io/api => k8s.io/api v0.0.0-20220826103217-d10499434b52
-	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20220826103007-349dcdf5c89f
+	k8s.io/api => ../api
+	k8s.io/apimachinery => ../apimachinery
+	k8s.io/csi-translation-lib => ../csi-translation-lib
 )
