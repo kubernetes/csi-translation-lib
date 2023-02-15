@@ -6,8 +6,8 @@ go 1.19
 
 require (
 	github.com/stretchr/testify v1.8.1
-	k8s.io/api v0.0.0-20230210010415-9fe8a5d4bed8
-	k8s.io/apimachinery v0.0.0-20230210010145-6eedab24c4fc
+	k8s.io/api v0.0.0
+	k8s.io/apimachinery v0.0.0
 	k8s.io/klog/v2 v2.80.1
 )
 
@@ -21,8 +21,8 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/net v0.5.0 // indirect
-	golang.org/x/text v0.6.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
@@ -32,6 +32,7 @@ require (
 )
 
 replace (
-	k8s.io/api => k8s.io/api v0.0.0-20230210010415-9fe8a5d4bed8
-	k8s.io/apimachinery => k8s.io/apimachinery v0.0.0-20230210010145-6eedab24c4fc
+	k8s.io/api => ../api
+	k8s.io/apimachinery => ../apimachinery
+	k8s.io/csi-translation-lib => ../csi-translation-lib
 )
