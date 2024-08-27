@@ -6,8 +6,8 @@ go 1.22.0
 
 require (
 	github.com/stretchr/testify v1.9.0
-	k8s.io/api v0.0.0-20240817060845-0a3fbba8ef9a
-	k8s.io/apimachinery v0.0.0-20240816010351-a8a2284d318b
+	k8s.io/api v0.0.0-20240827233010-7ac1f767816d
+	k8s.io/apimachinery v0.0.0-20240827232741-2465dc5239ab
 	k8s.io/klog/v2 v2.130.1
 )
 
@@ -19,12 +19,13 @@ require (
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
+	github.com/kr/text v0.2.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
-	golang.org/x/net v0.26.0 // indirect
-	golang.org/x/text v0.16.0 // indirect
+	golang.org/x/net v0.28.0 // indirect
+	golang.org/x/text v0.17.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
