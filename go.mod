@@ -8,8 +8,8 @@ godebug default=go1.27
 
 require (
 	github.com/stretchr/testify v1.12.1
-	k8s.io/api v0.0.0
-	k8s.io/apimachinery v0.0.0
+	k8s.io/api v0.0.0-20260904215302-696b79c644cf
+	k8s.io/apimachinery v0.0.0-20260904214832-b16c9f2303a7
 	k8s.io/klog/v2 v2.140.0
 )
 
@@ -28,10 +28,4 @@ require (
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v7 v7.0.0 // indirect
-)
-
-replace (
-	k8s.io/api => ../api
-	k8s.io/apimachinery => ../apimachinery
-	k8s.io/streaming => ../streaming
 )
